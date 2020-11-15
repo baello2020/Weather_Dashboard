@@ -5,7 +5,7 @@
 * [Weather-Dashboard - Github Repo](https://github.com/baello2020/Weather_Dashboard)
 * [Weather-Dashboard - Github IO](https://baello2020.github.io/Weather_Dashboard/)
 
-![Weather Dashboard Demo](assets/WeatherDash.gif)
+![Weather Dashboard Demo](assets/WeatherDash1.gif)
 
 ### Summary
 * HTML and CSS and Javascript documents create a weather application 
