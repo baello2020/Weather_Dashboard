@@ -1,5 +1,5 @@
 # Weather-Dashboard
-![Orlando](assets/orlando.png)
+![Orlando](assets/orlandob.png)
 ## Orlando Baello Homework-6 Weather-Dashboard
 ### Links
 * [Weather-Dashboard - Github Repo](https://github.com/baello2020/Weather_Dashboard)
